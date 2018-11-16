@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render loginPage 1`] = `
+<div>
+  <h1>
+    Expensify app
+  </h1>
+  <h4>
+    Please log in.
+  </h4>
+  <button>
+    Login
+  </button>
+</div>
+`;
